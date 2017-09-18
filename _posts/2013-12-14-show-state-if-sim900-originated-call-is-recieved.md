@@ -6,8 +6,6 @@ post_title: >
 author: Dost Muhammad Shah
 post_excerpt: ""
 layout: post
-permalink: >
-  http://dostmuhammad.com/blog/show-state-if-sim900-originated-call-is-recieved/
 published: true
 post_date: 2013-12-14 14:22:46
 ---
